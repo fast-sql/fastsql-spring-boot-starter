@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "name": "pavilion",
+      "sourceType": "top.fastsql.starter.FastSQLConfig",
+      "type": "top.fastsql.starter.FastSQLConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "top.fastsql.starter.FastSQLConfig",
+      "name": "fastsql.data-source-type",
+      "description": "数据库类型mysql/postgresql/oracle",
+      "type": "java.lang.String"
+    }
+  ]
+}
